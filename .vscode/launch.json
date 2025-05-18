@@ -1,0 +1,38 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+        "name": ".NET Core Attach",
+        "type": "coreclr",
+        "request": "attach"
+    },
+    {
+      "name": "Launch and Debug Hosted Blazor WebAssembly App",
+      "type": "blazorwasm",
+      "request": "launch",
+      "hosted": true,
+      "program": "${workspaceFolder}/bin/Debug/<target-framework>/<project-name.dll>",
+      "cwd": "${workspaceFolder}"
+    },
+    {
+      "name": "Launch ASP.NET Core Server",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "dotnet: build",
+      "program": "${workspaceFolder}/Server/bin/Debug/net5.0/Server.dll",
+      "args": [],
+      "cwd": "${workspaceFolder}/Server",
+      "stopAtEntry": false,
+      "serverReadyAction": {
+        "action": "openExternally",
+        "pattern": "\\bNow listening on:\\s+(https?://\\S+)"
+      },
+      "env": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "sourceFileMap": {
+        "/Views": "${workspaceFolder}/Server/Views"
+      }
+    }
+  ]
+}
