@@ -6,14 +6,10 @@ C:\Users\altig\OneDrive\Masaüstü\Pratik\BookStore\MyNet5Api\bin\Debug\net5.0\M
 C:\Users\altig\OneDrive\Masaüstü\Pratik\BookStore\MyNet5Api\bin\Debug\net5.0\MyNet5Api.runtimeconfig.dev.json
 C:\Users\altig\OneDrive\Masaüstü\Pratik\BookStore\MyNet5Api\bin\Debug\net5.0\MyNet5Api.dll
 C:\Users\altig\OneDrive\Masaüstü\Pratik\BookStore\MyNet5Api\bin\Debug\net5.0\MyNet5Api.pdb
-C:\Users\altig\OneDrive\Masaüstü\Pratik\BookStore\MyNet5Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\altig\OneDrive\Masaüstü\Pratik\BookStore\MyNet5Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\altig\OneDrive\Masaüstü\Pratik\BookStore\MyNet5Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\altig\OneDrive\Masaüstü\Pratik\BookStore\MyNet5Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
 C:\Users\altig\OneDrive\Masaüstü\Pratik\BookStore\MyNet5Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\altig\OneDrive\Masaüstü\Pratik\BookStore\MyNet5Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\altig\OneDrive\Masaüstü\Pratik\BookStore\MyNet5Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\altig\OneDrive\Masaüstü\Pratik\BookStore\MyNet5Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
 C:\Users\altig\OneDrive\Masaüstü\Pratik\BookStore\MyNet5Api\obj\Debug\net5.0\MyNet5Api.csproj.AssemblyReference.cache
 C:\Users\altig\OneDrive\Masaüstü\Pratik\BookStore\MyNet5Api\obj\Debug\net5.0\MyNet5Api.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\altig\OneDrive\Masaüstü\Pratik\BookStore\MyNet5Api\obj\Debug\net5.0\MyNet5Api.AssemblyInfoInputs.cache
@@ -21,7 +17,6 @@ C:\Users\altig\OneDrive\Masaüstü\Pratik\BookStore\MyNet5Api\obj\Debug\net5.0\M
 C:\Users\altig\OneDrive\Masaüstü\Pratik\BookStore\MyNet5Api\obj\Debug\net5.0\MyNet5Api.csproj.CoreCompileInputs.cache
 C:\Users\altig\OneDrive\Masaüstü\Pratik\BookStore\MyNet5Api\obj\Debug\net5.0\MyNet5Api.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\altig\OneDrive\Masaüstü\Pratik\BookStore\MyNet5Api\obj\Debug\net5.0\MyNet5Api.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\altig\OneDrive\Masaüstü\Pratik\BookStore\MyNet5Api\obj\Debug\net5.0\MyNet5Api.sourcelink.json
 C:\Users\altig\OneDrive\Masaüstü\Pratik\BookStore\MyNet5Api\obj\Debug\net5.0\MyNet5Api.RazorTargetAssemblyInfo.cache
 C:\Users\altig\OneDrive\Masaüstü\Pratik\BookStore\MyNet5Api\obj\Debug\net5.0\scopedcss\bundle\MyNet5Api.styles.css
 C:\Users\altig\OneDrive\Masaüstü\Pratik\BookStore\MyNet5Api\obj\Debug\net5.0\staticwebassets\MyNet5Api.StaticWebAssets.Manifest.cache

@@ -72,17 +72,6 @@ namespace MyNet5Api.Controllers {
             book.Title = updatedBook.Title != default ? updatedBook.Title : book.Title;
             return Ok();
         }
-
-        [HttpDelete("{id}")]
-        public IActionResult DeleteBook(int id)
-        {
-            var book = Booklist.SingleOrDefault(x => x.Id == id);
-            if (book is null)
-                return BadRequest();
-            Booklist.Remove(book);
-            return Ok();
-        }
-
     
     }
 
